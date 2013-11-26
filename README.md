@@ -5,7 +5,7 @@ Phalcon DLL Extensions for Windows
 
 This repository contains trunk version of Phalcon. DO NOT USE THEM IN PRODUCTION
 
-More info at https://github.com/phalcon/cphalcon
+Report issues and more info at https://github.com/phalcon/cphalcon
 
 ================
 
